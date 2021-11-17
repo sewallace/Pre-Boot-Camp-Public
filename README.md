@@ -1,0 +1,1 @@
+This is my first push to GitHub - I first selected the little branch icon with the little circles.  Next I selected Clone repositiory and selected the pre-boot camp public. This saves it to a file on the computer 
